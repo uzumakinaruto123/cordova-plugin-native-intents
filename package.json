@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-native-intents",
+  "version": "0.0.1",
+  "description": "Cordova plugin with Android Native Intent Implementations",
+  "cordova": {
+    "id": "cordova-plugin-native-intents",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
